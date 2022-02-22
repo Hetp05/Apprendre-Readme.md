@@ -35,10 +35,10 @@ Afficher
 `un de code`
 
 Mettre un lien dans le readme.md 
-mon blog [e-genieclimatique](hhtps://www.e-genieclimatique.com)
+mon blog [e-genieclimatique](https://www.e-genieclimatique.com)
 
 Mettre une image, un logo 
-![logo e-genieclimatique](hhtps://www.e-genieclimatique.com/wordpress/wp-content/upload/2017/08/logo-E-1.jpg)
+![logo e-genieclimatique](https://www.e-genieclimatique.com/wordpress/wp-content/upload/2017/08/logo-E-1.jpg)
 
 Vidéo originale: https://youtu.be/4lg3YyugRZQ
 
