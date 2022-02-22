@@ -28,7 +28,7 @@ Une imbrication de puce
   * sous-élément 2
 
 Faire une citation
-> ceci est unr citation
+> ceci est une citation 
 je suis à la ligne
 
 Afficher 
